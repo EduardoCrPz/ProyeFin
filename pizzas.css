@@ -1,0 +1,218 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+div#contenedor{
+	margin: auto;
+	margin-top: 5px;
+	height: 1300px;
+	width: 900px;
+	background: white;
+
+}
+div#cabecera{
+	height: 10%;
+	background: black;
+}
+div#logo{
+	height: 100px;
+	width: 100px;
+	float: left;
+	margin-top: 5px;
+	margin-left: 10px;	
+}
+.logotipo img{
+	margin-left: 15px;
+	margin-top: 0px;
+}
+div#menu{
+	float: right;
+	background:  black;
+	height: 90%;
+	width: 70%;
+	float: right;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+.inicio{
+	list-style: none;
+	padding: 0;
+	margin: auto;
+}
+.inicio li a{
+	text-decoration: none;
+	padding: 15px;
+	font-size: 25px;
+	font-family: lucida;
+	background:  black;
+	color: white;
+}
+.inicio li{
+	display: inline-block;
+	margin-top: 45px;
+	text-align: center;
+}
+.inicio li a:hover{
+	background: red;
+	border-radius: 200px;
+
+
+
+
+} 
+div#cuerpo{
+	height: 78%;
+	background: #E5E5E5;	
+}
+div#p1{
+	background: red;
+	height: 27%;
+}
+div#p2{
+	background:black;
+	height: 27%;
+}
+div#p3{
+	background: skyblue;
+	height: 27%;
+}
+div#izqp1{
+	background: beige;
+	float: left;
+	width: 450px;
+	height: 340px;
+}
+.primera figcaption{
+	margin-left: 15px;
+	font-family: lucida;
+	font-size: 16px;
+}
+.segunda figcaption{
+	margin-left: 15px;
+	font-family: lucida;
+	font-size: 16px;
+}
+.tercera figcaption{
+	margin-left: 15px;
+	font-family: lucida;
+	font-size: 16px;
+}
+.cuarta figcaption{
+	margin-left: 15px;
+	font-family: lucida;
+	font-size: 16px;
+}
+.quinta figcaption{
+	margin-left: 15px;
+	font-family: lucida;
+	font-size: 16px;
+}	
+.sexta figcaption{
+	margin-left: 15px;
+	font-family: lucida;
+	font-size: 16px;
+}	
+p{
+	margin-left: 15px;
+	font-family: lucida;
+	font-size: 16px;
+}
+div#derp1{
+	background: beige;
+	float: left;
+	width: 450px;
+	height: 340px;
+}
+div#izqp2{
+	background: beige;
+	float: left;
+	width: 450px;
+	height: 340px;
+
+}
+img {
+	margin-top: 15px;
+	margin-left: 120px;
+}
+h1 {
+	font-family: italiana;
+	text-align: center;
+}
+.comida img:hover{
+	width: 215px;
+	height: 115px;
+}
+
+div#derp2{
+	background: beige;
+	float: left;
+	width: 450px;
+	height: 340px;
+}
+div#izqp3{
+	background: beige;
+	float: left;
+	width: 450px;
+	height: 340px;
+}
+div#derp3{
+	background: beige;
+	float: left;
+	width: 450px;
+	height: 340px;
+}
+
+
+
+
+
+div#pie{
+	height: 13%;
+	background-color: white;
+}
+div#info1{
+	background: black;
+	width: 55%;
+	height: 100%;
+	float: left;
+}
+h4{
+	font-size: 16px;
+	padding: 10px;
+	color: white ;
+	margin-top: 13px;
+}
+li{
+	font-size: 11px;
+	margin-top: 4px;
+	padding: 10px;
+	color:white;
+	font-family: lucida;
+}
+div#redes{
+	background: black;
+	width: 45%;
+	height: 100%;
+	float: right;
+}
+.sociales li{
+	display: inline-block;
+	justify-content: left;
+	margin-top: 10px;
+}
+h3{
+	font-size: 19px;
+	margin-top: 20px;
+	padding: 16px;
+	color:white;
+}
+h4{
+	font-size: 19px;
+}
+.sociales a{
+	padding: 0px;
+}
+.sociales img{
+	margin: 5px;
+	border-radius: 200px;
+}	

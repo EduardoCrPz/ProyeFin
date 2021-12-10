@@ -1,0 +1,166 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+div#contenedor{
+	margin: auto;
+	margin-top: 5px;
+	height: 1300px;
+	width: 900px;
+	background: white;
+
+}
+div#cabecera{
+	height: 9%;
+	background: black;
+}
+div#logo{
+	height: 100px;
+	width: 100px;
+	float: left;
+	margin-top: 0px;
+	margin-left: 10px;	
+}
+.logotipo img{
+	margin-left: 15px;
+	margin-top: 0px;
+}	
+div#menu{
+	float: right;
+	background:  black;
+	height: 90%;
+	width: 70%;
+	float: right;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+.inicio{
+	list-style: none;
+	padding: 0;
+	margin: auto;
+}
+.inicio li a{
+	text-decoration: none;
+	padding: 15px;
+	font-size: 25px;
+	font-family: lucida;
+	background:  black;
+	color: white;
+}
+.inicio li{
+	display: inline-block;
+	margin-top: 45px;
+	text-align: center;
+}
+.inicio li a:hover{
+	background: red;
+	border-radius: 200px;
+} 
+
+
+
+div#cuerpo{
+	height: 82%;
+	background: #E5E5E5;	
+}
+div#alcohol{
+	background: beige;
+	width:900px ;
+	height:360px ;
+}
+div#bebidas{
+	background: beige;
+	width: 900px;
+	height: 355px;	
+}
+div#vinos{
+	background: beige;
+	width: 900px;
+	height: 355px;
+}
+h1 {
+	font-family: italiana;
+	text-align: center;
+}
+.bebidas1 img:hover {
+	width: 205px;
+	height: 115px;
+}
+img{
+	padding: 5px;
+	margin-top: 10px;
+	margin-left: 5px; 	
+}
+table{
+	left: 15px;
+	font-size: 20px;
+    font-family: lucida;
+}
+.precios1 td{
+	padding: 5px;
+	align-content: center;
+	font-family: lucida;
+}
+.precios2 td{
+	padding: 5px;
+	align-content: center;
+	font-family: lucida;
+}
+.precios3 td{
+	padding: 5px;
+	align-content: center;
+	font-family: lucida;
+}
+
+
+
+div#pie{
+	height: 12%;
+	background-color: white;
+}
+div#info1{
+	background: black;
+	width: 55%;
+	height: 100%;
+	float: left;
+}
+h4{
+	font-size: 16px;
+	padding: 10px;
+	color: white ;
+	margin-top: 13px;
+}
+li{
+	font-size: 11px;
+	margin-top: 4px;
+	padding: 10px;
+	color:white;
+	font-family: arial, helvetica;
+}
+div#redes{
+	background: black;
+	width: 45%;
+	height: 100%;
+	float: right;
+}
+.sociales li{
+	display: inline-block;
+	justify-content: left;
+	margin-top: 10px;
+}
+h3{
+	font-size: 19px;
+	margin-top: 20px;
+	padding: 16px;
+	color:white;
+}
+h4{
+	font-size: 19px;
+}
+.sociales a{
+	padding: 10px;
+}
+.sociales img{
+	margin: 5px;
+	border-radius: 200px;
+}	
